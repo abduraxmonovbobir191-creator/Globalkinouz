@@ -6,7 +6,7 @@ from aiogram import Bot, Dispatcher, F, types
 from aiogram.filters import Command, CommandStart
 
 # ================= SOZLAMALAR =================
-BOT_TOKEN = "BOT_TOKENINGIZNI_SHU_YERGA_YOZING"
+BOT_TOKEN = "8882224852:AAFGI68hb5dVwlICwB_gi FAq1WffaDhMZcw"
 ADMIN_ID = 123456789  # O'zingizning Telegram raqamli ID'ingiz (int formatda)
 DB_FILE = "movies.json"
 # ===============================================
